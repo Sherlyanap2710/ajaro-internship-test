@@ -1,0 +1,42 @@
+.jdl{
+	background-color:#ffa66b;
+	color:black;
+	line height:1.5cm;
+	text-align:center;
+	padding:8px;
+	height:auto;
+	position:relative;
+}
+.btn{
+	background-color:#a5430e;
+	border:1px;
+	border-radius:11px;
+	line-height:0.8cm;
+	color:white;
+}
+.eh{
+word-spacing:1cm;
+}
+.atr{
+	border-radius:11px;
+	line-height:0.5cm;	
+}
+.hh{
+	border-radius:11px;
+	line-height:3cm;	
+}
+.awal{
+	background-color:#efac7f;
+	color:Black;
+	line height:1.5cm;
+	text-align:center;
+	padding:8px;
+	height:auto;
+	position:relative;
+}
+.tabel{
+	background-color:#f4e0d2;
+	color:black;
+	border-radius:10px;
+	text-align:center;
+}
